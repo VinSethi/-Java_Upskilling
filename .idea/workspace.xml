@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/controlflows/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/refactoring/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/refactoring/FilmClassification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/controlflows/SelectionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/refactoring/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/refactoring/FilmClassificationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/extensions.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="31ojs9OP2C01u7eUUbo5RJLf7Lf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Debug",
+    "Application.Selection.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.AppTest.firstTest.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodEvening.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodMorning.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeFrom50To11_ReturnsGoodMorning.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeOf14_ReturnsGoodAfternoon.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeOf23_ReturnsGoodNight.executor": "Run",
+    "JUnit.AppTest.getGreeting_GivenATimeOf6_ReturnsGoodEvening.executor": "Run",
+    "JUnit.FilmClassificationTests.executor": "Debug",
+    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge (1).executor": "Run",
+    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge.executor": "Run",
+    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge4.executor": "Run",
+    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge5.executor": "Run",
+    "JUnit.SelectionTests.executor": "Run",
+    "JUnit.SelectionTests.givenAConditionalOperator.executor": "Run",
+    "JUnit.SelectionTests.givenAPriorityOf0_giveGreen.executor": "Run",
+    "JUnit.SelectionTests.givenAPriorityOf1_giveAmber.executor": "Run",
+    "JUnit.SelectionTests.givenAPriorityOf3_giveRed.executor": "Run",
+    "JUnit.SelectionTests.givenAPriorityOf99_giveError.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/vinee/OneDrive/Documents/Github/tech501-preassignment_2/JavaFundamentals/src/main/java/com/sparta/nam/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SelectionTests.givenAConditionalOperatorsOf65To84">
+    <configuration name="SelectionTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.controlflows" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.SelectionTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionTests.givenAConditionalOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.controlflows" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.SelectionTests" />
+      <option name="METHOD_NAME" value="givenAConditionalOperator(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionTests.givenAConditionalOperators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.controlflows" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.SelectionTests" />
+      <option name="METHOD_NAME" value="givenAConditionalOperators(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionTests.givenAConditionalOperatorsOf65To84" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.controlflows" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.SelectionTests" />
+      <option name="METHOD_NAME" value="givenAConditionalOperatorsOf65To84(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionTests.givenAPriorityOf3_giveRed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.controlflows" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.SelectionTests" />
+      <option name="METHOD_NAME" value="givenAPriorityOf3_giveRed(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelectionTests.givenAConditionalOperatorsOf65To84" />
+        <item itemvalue="JUnit.SelectionTests.givenAConditionalOperators" />
+        <item itemvalue="JUnit.SelectionTests.givenAConditionalOperator" />
+        <item itemvalue="JUnit.SelectionTests" />
+        <item itemvalue="JUnit.SelectionTests.givenAPriorityOf3_giveRed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="" />
+      <created>1756197526441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756197526441</updated>
+    </task>
+    <servers />
+  </component>
+</project>

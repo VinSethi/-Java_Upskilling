@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee7dc31c-12fa-4db2-9750-7464e190237b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.vscode/extensions.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="31pMgBjjWZu2MNvAtPGwSrq225o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CheckInputTests.executor": "Run",
+    "JUnit.CheckInputTests.givenAnyStringExceptPassword_CheckInput_ReturnsFalse.executor": "Run",
+    "JUnit.CheckInputTests.givenTheStringPassword_RegardlessOfCase_CheckInput_ReturnsTrue.executor": "Run",
+    "JUnit.OperatorTests.executor": "Run",
+    "JUnit.OperatorTests.givenNumber_BODMAS_ReturnsTheExpectedResult.executor": "Run",
+    "JUnit.SumArrayTests.executor": "Run",
+    "JUnit.SumNumsTests.executor": "Run",
+    "JUnit.SumNumsTests.givenTwoNumbers_SumNums_ReturnsTheSumFromStartToEnd.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vinee/OneDrive/Documents/Github/tech501-preassignment_2/JavaFundamentals/TestFirstDevelopmentLab"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SumArrayTests">
+    <configuration name="CheckInputTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFirstDevelopmentLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.tfd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.tfd" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.tfd.CheckInputTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorTests.givenNumber_BODMAS_ReturnsTheExpectedResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFirstDevelopmentLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.tfd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.tfd" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.tfd.OperatorTests" />
+      <option name="METHOD_NAME" value="givenNumber_BODMAS_ReturnsTheExpectedResult(int,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumArrayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFirstDevelopmentLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.tfd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.tfd" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.tfd.SumArrayTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFirstDevelopmentLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.tfd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.tfd" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.tfd.SumNumsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumsTests.givenTwoNumbers_SumNums_ReturnsTheSumFromStartToEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFirstDevelopmentLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.tfd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.tfd" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.tfd.SumNumsTests" />
+      <option name="METHOD_NAME" value="givenTwoNumbers_SumNums_ReturnsTheSumFromStartToEnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SumArrayTests" />
+        <item itemvalue="JUnit.CheckInputTests" />
+        <item itemvalue="JUnit.OperatorTests.givenNumber_BODMAS_ReturnsTheExpectedResult" />
+        <item itemvalue="JUnit.SumNumsTests" />
+        <item itemvalue="JUnit.SumNumsTests.givenTwoNumbers_SumNums_ReturnsTheSumFromStartToEnd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7dc31c-12fa-4db2-9750-7464e190237b" name="Changes" comment="" />
+      <created>1756216670332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756216670332</updated>
+    </task>
+    <servers />
+  </component>
+</project>
