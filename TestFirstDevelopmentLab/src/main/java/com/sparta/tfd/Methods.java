@@ -47,7 +47,6 @@ public class Methods {
     // of all the numbers in the array nums
     public static int sumArray(int[] nums) {
         int sum = 0;
-        String hello = "hello";
         for (int i:nums){
             sum = sum + i;
         }
