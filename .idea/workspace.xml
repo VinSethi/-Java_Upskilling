@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/controlflows/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/refactoring/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/refactoring/FilmClassification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/controlflows/SelectionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/refactoring/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/refactoring/FilmClassificationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -56,6 +51,8 @@
     "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge5.executor": "Run",
     "JUnit.SelectionTests.executor": "Run",
     "JUnit.SelectionTests.givenAConditionalOperator.executor": "Run",
+    "JUnit.SelectionTests.givenAConditionalOperators.executor": "Run",
+    "JUnit.SelectionTests.givenAConditionalOperatorsOf65To84.executor": "Run",
     "JUnit.SelectionTests.givenAPriorityOf0_giveGreen.executor": "Run",
     "JUnit.SelectionTests.givenAPriorityOf1_giveAmber.executor": "Run",
     "JUnit.SelectionTests.givenAPriorityOf3_giveRed.executor": "Run",
@@ -63,7 +60,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/vinee/OneDrive/Documents/Github/tech501-preassignment_2/JavaFundamentals/src/main/java/com/sparta/nam/Main.java"
   }
