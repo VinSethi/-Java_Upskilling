@@ -41,3 +41,17 @@
         Assertions.assertEquals("Good evening", App.getGreeting(time));
     }
 ```
+
+
+## Loops(For/ For each , While/ Do While)
+
+
+
+
+## OOP
+* Abstraction: Is the concept of classes, which they then are the blueprints of real life objects
+* An object is the instance of a class
+
+* Encapsulation: concept of data hiding & exposing e.g. thru private & public methods & variables
+* Polymorphism: different implementations of the same thinghas two types: method overriding & method overloading
+* Inheritance: a hierarchical relationship between classes (e.g. subclasses)
