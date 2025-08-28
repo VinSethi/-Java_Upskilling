@@ -18,7 +18,9 @@ public class Member {
     public String getFirstName() {
         return firstName;
     }
-    public String getLastName() {
+
+    // protected means that the field/method is only available with the class
+    protected String getLastName() {
         return lastName;
     }
 
@@ -32,5 +34,10 @@ public class Member {
 
     public long getMemberDays(){
         return joinDate.until(LocalDate.now(), ChronoUnit.DAYS);
+    }
+
+    @Override
+    public String toString() {
+        return getFullName() + "has been member for" + getMemberDays() +"days";
     }
 }

@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/Day2_Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Enums/Season1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/Strings/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/controlflows/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/datetime/App.java" afterDir="false" />
+    <list default="true" id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="Updated Training code for Java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/BaseballMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/OOP/AnimalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/nam/OOP/MemberTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestFirstDevelopmentLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VinSethi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VinSethi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VinSethi/-Java_Upskilling.git",
-    "accountId": "07aebdee-f19e-4e5e-b4b8-a0e7378946bb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VinSethi/-Java_Upskilling.git&quot;,
+    &quot;accountId&quot;: &quot;07aebdee-f19e-4e5e-b4b8-a0e7378946bb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -62,7 +63,15 @@
     "Application.Season1.executor": "Run",
     "Application.Selection.executor": "Run",
     "Application.com.sparta.nam.OOP.App.executor": "Run",
+    "Application.com.sparta.nam.OOP.exercises.App.executor": "Run",
     "Application.com.sparta.nam.datetime.App.executor": "Run",
+    "JUnit.AnimalTests.executor": "Run",
+    "JUnit.AnimalTests.getAgeTest.executor": "Run",
+    "JUnit.AnimalTests.getFirstNameTest.executor": "Run",
+    "JUnit.AnimalTests.getSpeakTestForEagle.executor": "Run",
+    "JUnit.AnimalTests.getToSpringTestForEagle.executor": "Run",
+    "JUnit.AnimalTests.getToStringTest.executor": "Run",
+    "JUnit.AnimalTests.setFirstNameTest.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "JUnit.AppTest.firstTest.executor": "Run",
     "JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodEvening.executor": "Run",
@@ -95,13 +104,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.sparta.nam.OOP.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.Strings.App" />
+  <component name="RunManager" selected="JUnit.AnimalTests.getSpeakTest">
+    <configuration name="com.sparta.nam.OOP.exercises.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.exercises.App" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.nam.Strings.*" />
+          <option name="PATTERN" value="com.sparta.nam.OOP.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,34 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.controlflows.Loops" />
-      <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.nam.controlflows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Season1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.Enums.Season1" />
-      <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.nam.Enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.sparta.nam.OOP.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.App" />
+    <configuration name="AnimalTests.getSpeakTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -144,30 +126,69 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.OOP" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.AnimalTests" />
+      <option name="METHOD_NAME" value="getSpeakTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sparta.nam.datetime.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.datetime.App" />
+    <configuration name="AnimalTests.getSpeakTestForEagle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.nam.datetime.*" />
+          <option name="PATTERN" value="com.sparta.nam.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.OOP" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.AnimalTests" />
+      <option name="METHOD_NAME" value="getSpeakTestForEagle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTests.getToSpringTestForEagle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.OOP" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.AnimalTests" />
+      <option name="METHOD_NAME" value="getToSpringTestForEagle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTests.getToStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.nam.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.nam.OOP" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.nam.OOP.AnimalTests" />
+      <option name="METHOD_NAME" value="getToStringTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.sparta.nam.OOP.App" />
-        <item itemvalue="Application.com.sparta.nam.datetime.App" />
-        <item itemvalue="Application.Season1" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Loops" />
+        <item itemvalue="JUnit.AnimalTests.getSpeakTest" />
+        <item itemvalue="JUnit.AnimalTests.getToSpringTestForEagle" />
+        <item itemvalue="Application.com.sparta.nam.OOP.exercises.App" />
+        <item itemvalue="JUnit.AnimalTests.getSpeakTestForEagle" />
+        <item itemvalue="JUnit.AnimalTests.getToStringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +200,19 @@
       <option name="presentableId" value="Default" />
       <updated>1756197526441</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated Training code for Java">
+      <option name="closed" value="true" />
+      <created>1756306750630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756306750630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Training code for Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Training code for Java" />
   </component>
 </project>
