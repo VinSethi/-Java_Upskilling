@@ -1,5 +1,7 @@
 package com.sparta.nam.OOP.exercises;
 
+import java.util.Objects;
+
 public class Cow extends Animal{
 
 
@@ -20,4 +22,8 @@ public class Cow extends Animal{
     public String toString(){
         return super.toString() + "has a favourite food of" + favouriteFood;
     }
+
 }
+
+
+

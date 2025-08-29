@@ -8,6 +8,7 @@ public class App {
         Animal cow = new Cow("scottish Cow", 2019, 04, 10, "Grass");
         Animal eagle2 = new Eagle("Thunderbolt", 2021, 8, 9, "humans");
         Animal cow2 = new Cow("British Cow", 2023, 9,4, "Hay" );
+        Animal cow3 = new Cow("scottish Cow", 2019, 04, 10, "Grass");
 
 
 
@@ -17,9 +18,12 @@ public class App {
             System.out.println(x.speak());
             System.out.println(x.toString());
         }
+
+
+        System.out.println(cow.equals(cow3));
+        System.out.println(cow.hashCode());
+        System.out.println(cow3.hashCode());
     }
-
-
 
 
 }

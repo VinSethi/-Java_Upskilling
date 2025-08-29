@@ -1,14 +1,13 @@
-package com.sparta.nam.OOP.exercises;
+package com.sparta.vs.zoo;
 
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Objects;
 
-public abstract class Animal {
+public abstract class Animal2 implements Speakable {
     private String firstName;
     private final LocalDate birthDate;
 
-    public Animal(String firstName, int year, int month, int day) {
+    public Animal2(String firstName, int year, int month, int day) {
         this.firstName = firstName;
         this.birthDate = LocalDate.of(year, month, day);
     }
@@ -37,18 +36,4 @@ public abstract class Animal {
 
 
     public abstract String speak();
-
-
-    @Override
-    public boolean equals(Object obj) {
-        if(!(obj instanceof Animal animal)) return false; // check to see if obj is a member. If it is a member it will be referred to as "member"
-        // checking whether the firstname of the this object, is the same as the firstname of the the obejct we're comparing it to, same with lastname and joindate
-        return Objects.equals(this.firstName, animal.firstName) && Objects.equals(birthDate, animal.birthDate);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(this.firstName, this.birthDate);
-    }
-
 }
