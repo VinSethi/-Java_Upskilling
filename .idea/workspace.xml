@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8318ae8-ded8-4e11-a3e4-dcf969ad60f3" name="Changes" comment="Updated Training code for Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Animal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Zookeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/vs/zoo/Zootests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/nam/OOP/exercises/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/vs/zoo/Cow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,58 +46,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Season1.executor": "Run",
-    "Application.Selection.executor": "Run",
-    "Application.com.sparta.nam.OOP.App.executor": "Run",
-    "Application.com.sparta.nam.OOP.exercises.App.executor": "Run",
-    "Application.com.sparta.nam.datetime.App.executor": "Run",
-    "JUnit.AnimalTests.executor": "Run",
-    "JUnit.AnimalTests.getAgeTest.executor": "Run",
-    "JUnit.AnimalTests.getFirstNameTest.executor": "Run",
-    "JUnit.AnimalTests.getSpeakTest.executor": "Run",
-    "JUnit.AnimalTests.getSpeakTestForEagle.executor": "Run",
-    "JUnit.AnimalTests.getToSpringTestForEagle.executor": "Run",
-    "JUnit.AnimalTests.getToStringTest.executor": "Run",
-    "JUnit.AnimalTests.setFirstNameTest.executor": "Run",
-    "JUnit.AppTest.executor": "Run",
-    "JUnit.AppTest.firstTest.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodEvening.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodMorning.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeFrom50To11_ReturnsGoodMorning.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeOf14_ReturnsGoodAfternoon.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeOf23_ReturnsGoodNight.executor": "Run",
-    "JUnit.AppTest.getGreeting_GivenATimeOf6_ReturnsGoodEvening.executor": "Run",
-    "JUnit.FilmClassificationTests.executor": "Debug",
-    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge (1).executor": "Run",
-    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge.executor": "Run",
-    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge4.executor": "Run",
-    "JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge5.executor": "Run",
-    "JUnit.SelectionTests.executor": "Run",
-    "JUnit.SelectionTests.givenAConditionalOperator.executor": "Run",
-    "JUnit.SelectionTests.givenAConditionalOperators.executor": "Run",
-    "JUnit.SelectionTests.givenAConditionalOperatorsOf65To84.executor": "Run",
-    "JUnit.SelectionTests.givenAPriorityOf0_giveGreen.executor": "Run",
-    "JUnit.SelectionTests.givenAPriorityOf1_giveAmber.executor": "Run",
-    "JUnit.SelectionTests.givenAPriorityOf3_giveRed.executor": "Run",
-    "JUnit.SelectionTests.givenAPriorityOf99_giveError.executor": "Run",
-    "JUnit.Zootests.executor": "Run",
-    "JUnit.Zootests.feedAnimalTest.executor": "Run",
-    "JUnit.Zootests.talkTestForCow.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vinee/OneDrive/Documents/Github/JavaFundamentals",
-    "onboarding.tips.debug.path": "C:/Users/vinee/OneDrive/Documents/Github/tech501-preassignment_2/JavaFundamentals/src/main/java/com/sparta/nam/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Season1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sparta.nam.OOP.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sparta.nam.OOP.exercises.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.sparta.nam.datetime.App.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getAgeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getFirstNameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getSpeakTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getSpeakTestForEagle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getToSpringTestForEagle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.getToStringTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AnimalTests.setFirstNameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.firstTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodEvening.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeFrom12To11_ReturnsGoodMorning.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeFrom50To11_ReturnsGoodMorning.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeOf14_ReturnsGoodAfternoon.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeOf23_ReturnsGoodNight.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.getGreeting_GivenATimeOf6_ReturnsGoodEvening.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FilmClassificationTests.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FilmClassificationTests.givenFilm_Classification_ReturnsAnAppropriateAge5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAConditionalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAConditionalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAConditionalOperatorsOf65To84.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAPriorityOf0_giveGreen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAPriorityOf1_giveAmber.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAPriorityOf3_giveRed.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SelectionTests.givenAPriorityOf99_giveError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Zootests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Zootests.feedAnimalTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Zootests.talkTestForCow.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinee/OneDrive/Documents/Github/JavaFundamentals&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinee/OneDrive/Documents/Github/tech501-preassignment_2/JavaFundamentals/src/main/java/com/sparta/nam/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.Zootests.talkTestForCow">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sparta.vs.zoo.App" />
@@ -185,8 +175,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Zootests.talkTestForCow" />
-        <item itemvalue="JUnit.Zootests.feedAnimalTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.Zootests.feedAnimalTest" />
         <item itemvalue="JUnit.Zootests" />
         <item itemvalue="Application.com.sparta.nam.OOP.exercises.App" />
       </list>
@@ -216,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756391767447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Training code for Java">
+      <option name="closed" value="true" />
+      <created>1756480695145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756480695145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

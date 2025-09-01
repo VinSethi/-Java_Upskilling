@@ -2,6 +2,7 @@ package com.sparta.vs.zoo;
 
 
 public class Cow extends Animal2 {
+
     public Cow(String firstName, int year, int month, int day) {
         super(firstName, year, month, day);
     }
@@ -15,4 +16,5 @@ public class Cow extends Animal2 {
     public String talk() {
         return "Hi I am a Cow named" + getFirstName();
     }
+
 }
