@@ -55,3 +55,35 @@
 * Encapsulation: concept of data hiding & exposing e.g. thru private & public methods & variables
 * Polymorphism: different implementations of the same thinghas two types: method overriding & method overloading
 * Inheritance: a hierarchical relationship between classes (e.g. subclasses)
+
+
+
+## SOLID Principle
+### S – Single Responsibility Principle (SRP)
+
+*👉 A class should have only one reason to change.
+
+* In retail: One class shouldn’t handle inventory management, payments, and receipts all at once.
+
+### O – Open/Closed Principle (OCP)
+
+*👉 Open for extension, closed for modification.
+
+* In retail: If the store adds new discount strategies (e.g., Christmas sale, Black Friday), we shouldn’t rewrite the old discount logic.
+
+### L – Liskov Substitution Principle (LSP)
+
+* 👉 Subtypes should be substitutable for their base types without altering correctness.
+* In retail: A regular customer and a loyalty program customer should both work anywhere the system expects a Customer.
+
+### I – Interface Segregation Principle (ISP)
+
+* 👉 Clients shouldn’t be forced to depend on methods they don’t use.
+
+* In retail: A cash register doesn’t need to know about online delivery. An online order system doesn’t need to handle cash payments.
+
+### D – Dependency Inversion Principle (DIP)
+
+* 👉 Depend on abstractions, not concrete classes.
+
+* In retail: A checkout system shouldn’t depend directly on MySQLDatabase or OracleDatabase. It should just depend on a Database interface.
