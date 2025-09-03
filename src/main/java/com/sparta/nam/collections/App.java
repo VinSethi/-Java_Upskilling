@@ -47,12 +47,57 @@ public class App {
             System.out.println("Nish is not in the set");
         }
 
-        // Queues and Stacks
+        // Queues and Stacks(Dequeue)
+        Stack<String> myNameStack = new Stack<>();
+        myNameStack.push("Haashim");
+        myNameStack.push("Farah");
+        myNameStack.push("Vineet");
+        myNameStack.push("Dayanna");
+
+// See who was last put onto the stack
+        System.out.println(myNameStack.peek());
+        System.out.println(myNameStack);
+// Takes the last thing that was put on the stack and returns it as a string
+        System.out.println(myNameStack.pop());
+        System.out.println(myNameStack);
+
+
+        Queue<String> myNamesQueue = new LinkedList<>();
+        myNamesQueue.offer("Haashim");
+        myNamesQueue.offer("Farah");
+        myNamesQueue.offer("Vineet");
+        myNamesQueue.offer("Dayanna");
+        System.out.println(myNamesQueue);
+        System.out.println(myNamesQueue.peek());
+        System.out.println(myNamesQueue.poll());
+        System.out.println(myNamesQueue);
+
         // HashMaps (activitiy)
+        Map<Integer, String> map = new HashMap<>();
+
+// You can't have duplicae keys in maps
+
+        map.put(1, "Nish");
+        map.put(2, "Nash");
+        map.put(3, "Nosh");
+
+        System.out.println(map.get(1));
+// System.out.println(map.remove(1));
+        System.out.println(map);
+        System.out.println(map.containsKey(2));
+
+        Set<Integer> keySet = map.keySet();
+        var values = map.values();
+
+        for(var item: keySet){
+            System.out.println(item);
+        }
+        System.out.println();
+        for(var item : values){
+            System.out.println(item);
+        }
         // Collections activity
 
-        System.out.println(makeFiveSet(10));
-        System.out.println(longWordList("Hello my name is Vineet"));
 
     }
 

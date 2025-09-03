@@ -15,7 +15,7 @@ import static com.sparta.nam.collections.CollectionsLab.longWordList;
 public class CollectionsLabTests {
 
     @Test
-    @DisplayName("getFullName returns the correct name")
+    @DisplayName("makeFiveTest should add 5 and 10 into the hashset")
     public void makeFiveSetTest(){
         // Arrange
         HashSet<Integer> set = makeFiveSet(10);
@@ -27,7 +27,7 @@ public class CollectionsLabTests {
         Assertions.assertEquals(expected,set);
     }
     @Test
-    @DisplayName("getFullName returns the correct name")
+    @DisplayName("longWordListTest should add Hell0 and Vineet into the arraylist")
     public void longWordListTest(){
         // Arrange
         ArrayList<String> result = longWordList("Hello my name is Vineet");
